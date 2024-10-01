@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Nadiia!👋
+
+🤩 About me 
+
+👋 Hi there! I'm a student at Factoría F5 in Spain, and I've completed frontend development courses. 
+I love tackling complex challenges and turning the impossible into possible. 
+I'm determined and persistent, aiming to secure a great position in IT and achieve every goal I set.
 
 <!--
 **tizzifona/tizzifona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
