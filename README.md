@@ -1,8 +1,8 @@
-## Hi there, I'm Nadiia!👋
+## ***Hi there, I'm Nadiia!***👋
 
-🤩 About me 
+**<span style="color:green;">About me</span>**
 
-👋 Hi there! I'm a student at Factoría F5 in Spain, and I've completed frontend development courses. 
+👋 I'm a student at Factoría F5 in Spain, and I've completed frontend development courses. 
 I love tackling complex challenges and turning the impossible into possible. 
 I'm determined and persistent, aiming to secure a great position in IT and achieve every goal I set.
 
@@ -16,18 +16,3 @@ I'm determined and persistent, aiming to secure a great position in IT and achie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 </p>
 
-
-<!--
-**tizzifona/tizzifona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
