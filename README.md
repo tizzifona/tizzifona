@@ -1,6 +1,6 @@
-## ***Hi there, I'm Nadiia!***👋
+##Hi there, I'm Nadiia!👋
 
-**<span style="color:green;">About me</span>**
+<span style="color:green;">About me</span>
 
 👋 I'm a student at Factoría F5 in Spain, and I've completed frontend development courses. 
 I love tackling complex challenges and turning the impossible into possible. 
